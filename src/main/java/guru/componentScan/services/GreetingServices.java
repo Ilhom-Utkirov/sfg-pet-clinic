@@ -1,4 +1,4 @@
-package guru.springframework.sfgpetclinic.services;
+package guru.componentScan.services;
 
 public interface GreetingServices {
 
